@@ -6,10 +6,9 @@
 
 用人之道 · 权谋智慧 · 乱世决策 · 文武双全
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-orange.svg)](https://claude.ai)
-[![女娲.skill](https://img.shields.io/badge/女娲.skill-人物视角-red.svg)](https://github.com/Panmax/awesome-nuwa)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 </div>
 
 ---
@@ -92,10 +91,17 @@ caocao-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)
 
+
+## 更多 Skill
+
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
+
 ---
 
 <div align="center">
 
-MIT License &copy; 2026 Panmax
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
